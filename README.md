@@ -3,7 +3,7 @@
 # 💫 About Me:
 🔭 I’m currently working on agrinain<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with <br>🌱 I’m currently learning ihsan<br>💬 Ask me about anything<br>⚡ No Fun fact
 
-<video src="(https://raw.githubusercontent.com/misyaz-pelitari/misyaz-pelitari/refs/heads/main/animasi-misyaz-pelitari.webm)" width="600" controls autoplay muted loop></video>
+![video]<video src="(https://raw.githubusercontent.com/misyaz-pelitari/misyaz-pelitari/refs/heads/main/animasi-misyaz-pelitari.webm)" width="600" controls autoplay muted loop></video>
 
 
 # 💻 Tech Stack:
