@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A60CF7&multiline=true&width=550&height=120&lines=%F0%9F%91%A6+Nama+%3A+Misyaz+Pelitari;%F0%9F%8C%B1+Status+%3A+Pekerja+bebas+sambil+belajar;%F0%9F%A4%9D+Kerjasama+%3A+Terbuka+kepada+semua;%F0%9F%8C%9F+Hobi+%3A+Makan%2C+Tidur+%26+Berangan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A60CF7&multiline=true&width=550&height=140&lines=%F0%9F%91%A6+Nama+%3A+Misyaz+Pelitari;%F0%9F%8C%B1+Status+%3A+Pekerja+bebas+sambil+belajar;%F0%9F%A4%9D+Kerjasama+%3A+Terbuka+kepada+semua;%F0%9F%8C%9F+Hobi+%3A+Makan%2C+Tidur+%26+Berangan)](https://git.io/typing-svg)
 
 
 ![Animasi](https://raw.githubusercontent.com/misyaz-pelitari/misyaz-pelitari/refs/heads/main/animasi-mp-10s.gif)
